@@ -1,4 +1,5 @@
 # Image Generation App
+
 Cette application web permet de générer des images aléatoires de différentes tailles et couleurs à l'aide d'un réseau de neurones génératif.
 
 # Installation
